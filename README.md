@@ -15,6 +15,8 @@
 height="80">
   <img src='https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-plain.svg' width="150"
 height="80">
+     
+     ![Snake animation](https://github.com/edgarfagundes/edgarfagundes/output/github-contribution-grid-snake.svg)
+
 </div>
 
-![Snake animation](https://github.com/edgarfagundes/edgarfagundes/blob/output/github-contribution-grid-snake.svg)
