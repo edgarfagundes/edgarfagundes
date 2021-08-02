@@ -1,16 +1,20 @@
-### Hi there 👋
+# Eai, eu sou o Edgar! Prazer em ter vc aqui! 😄
 
-<!--
-**edgarfagundes/edgarfagundes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Edgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgarfagundes&show_icons=true&count_private=true&theme=dark&title_color=green)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edgarfagundes&theme=dark&langs_count=8&title_color=2&text_color)](https://github.com/edgarfagundes/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div>
+<img src='https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original.svg' width="150" 
+     height="80" >
+  <img src='https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/spring/spring-original-wordmark.svg' width="150" height="80">
+  <img src='https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/intellij/intellij-original-wordmark.svg' width="150" height="80">
+  <img src='https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/postgresql/postgresql-plain-wordmark.svg' width="150"
+height="80">
+  <img src='https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-plain.svg' width="150"
+height="80">
+</div>
+
+![Snake animation](https://github.com/edgarfagundes/edgarfagundes/blob/output/github-contribution-grid-snake.svg)
