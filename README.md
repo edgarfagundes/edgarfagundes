@@ -10,9 +10,6 @@
 <img src='https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/java/java-original.svg' width="150" 
      height="80" >
   <img src='https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/spring/spring-original-wordmark.svg' width="150" height="80">
-  <img src='https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/intellij/intellij-original-wordmark.svg' width="150" height="80">
-  <img src='https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/postgresql/postgresql-plain-wordmark.svg' width="150"
-height="80">
   <img src='https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/javascript/javascript-plain.svg' width="150"
 height="80">
      
