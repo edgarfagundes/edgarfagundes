@@ -1,4 +1,4 @@
-# Eai, tudo bem? Meu nome é Edgar. Prazer em ter vc aqui! 😄
+# Eai, tudo bem? Meu nome é Edgar. Prazer em ter você aqui! 😄
 
 ![Edgar's GitHub stats](https://github-readme-stats.vercel.app/api?username=edgarfagundes&show_icons=true&count_private=true&theme=dark&title_color=green)
 
